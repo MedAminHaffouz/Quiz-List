@@ -1,3 +1,5 @@
 # ninja log v5
 10	563	7436012241261907	CMakeFiles/quiz_list.dir/main.c.obj	f5db26594ba3462
 566	1205	7436012246947349	quiz_list.exe	e61a6ed6bc246602
+68	878	7438115267079796	CMakeFiles/quiz_list.dir/main.c.obj	f5db26594ba3462
+880	1652	7438115274526116	quiz_list.exe	e61a6ed6bc246602
