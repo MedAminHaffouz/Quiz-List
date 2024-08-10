@@ -74,9 +74,15 @@ list push_question(list L) {
     }
 }
 
+void showlist(list L) {
+
+}
+
 int main(void) {
     printf("Hello, World!\n");
     list L = NULL;
+    L = push_question(L);
+    L = push_question(L);
     L = push_question(L);
     return 0;
 }
